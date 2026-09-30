@@ -1,0 +1,1098 @@
+[
+  {
+    "producto": "Cebolla",
+    "variedad": "Sin especificar",
+    "mercado": "Mercado Mayorista Lo Valledor de Santiago",
+    "precio_promedio": 12000,
+    "unidad": "$/malla 17 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Cebolla",
+    "variedad": "Sin especificar",
+    "mercado": "Feria Lagunitas de Puerto Montt",
+    "precio_promedio": 17833,
+    "unidad": "$/malla 17 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Cebolla",
+    "variedad": "Sin especificar",
+    "mercado": "Terminal Hortofrutícola Agro Chillán",
+    "precio_promedio": 13000,
+    "unidad": "$/malla 17 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Cebolla",
+    "variedad": "Sin especificar",
+    "mercado": "Vega Monumental Concepción",
+    "precio_promedio": 15750,
+    "unidad": "$/malla 17 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Cebolla",
+    "variedad": "Morada",
+    "mercado": "Femacal de La Calera",
+    "precio_promedio": 16880,
+    "unidad": "$/malla 18 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Cebolla",
+    "variedad": "Morada",
+    "mercado": "Terminal Hortofrutícola Agro Chillán",
+    "precio_promedio": 18000,
+    "unidad": "$/malla 18 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Cebolla",
+    "variedad": "Morada",
+    "mercado": "Vega Modelo de Temuco",
+    "precio_promedio": 18916,
+    "unidad": "$/malla 18 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Cebolla",
+    "variedad": "Sin especificar",
+    "mercado": "Femacal de La Calera",
+    "precio_promedio": 11416,
+    "unidad": "$/malla 18 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Lechuga",
+    "variedad": "Conconina",
+    "mercado": "Mercado Mayorista Lo Valledor de Santiago",
+    "precio_promedio": 8172,
+    "unidad": "$/caja 10 unidades",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Lechuga",
+    "variedad": "Conconina",
+    "mercado": "Femacal de La Calera",
+    "precio_promedio": 9119,
+    "unidad": "$/caja 10 unidades",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Lechuga",
+    "variedad": "Conconina",
+    "mercado": "Feria Lagunitas de Puerto Montt",
+    "precio_promedio": 17000,
+    "unidad": "$/caja 10 unidades",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Lechuga",
+    "variedad": "Conconina",
+    "mercado": "Macroferia Regional de Talca",
+    "precio_promedio": 8500,
+    "unidad": "$/caja 10 unidades",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Lechuga",
+    "variedad": "Conconina",
+    "mercado": "Terminal Hortofrutícola Agro Chillán",
+    "precio_promedio": 13833,
+    "unidad": "$/caja 10 unidades",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Lechuga",
+    "variedad": "Conconina",
+    "mercado": "Terminal La Palmera de La Serena",
+    "precio_promedio": 7500,
+    "unidad": "$/caja 10 unidades",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Lechuga",
+    "variedad": "Conconina",
+    "mercado": "Vega Central Mapocho de Santiago",
+    "precio_promedio": 7070,
+    "unidad": "$/caja 10 unidades",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Lechuga",
+    "variedad": "Conconina",
+    "mercado": "Vega Modelo de Temuco",
+    "precio_promedio": 12517,
+    "unidad": "$/caja 10 unidades",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Lechuga",
+    "variedad": "Conconina",
+    "mercado": "Vega Monumental Concepción",
+    "precio_promedio": 10250,
+    "unidad": "$/caja 10 unidades",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Lechuga",
+    "variedad": "Escarola",
+    "mercado": "Mercado Mayorista Lo Valledor de Santiago",
+    "precio_promedio": 9938,
+    "unidad": "$/caja 15 unidades",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Lechuga",
+    "variedad": "Escarola",
+    "mercado": "Femacal de La Calera",
+    "precio_promedio": 12994,
+    "unidad": "$/caja 15 unidades",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Lechuga",
+    "variedad": "Escarola",
+    "mercado": "Feria Lagunitas de Puerto Montt",
+    "precio_promedio": 25395,
+    "unidad": "$/caja 15 unidades",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Lechuga",
+    "variedad": "Escarola",
+    "mercado": "Macroferia Regional de Talca",
+    "precio_promedio": 22200,
+    "unidad": "$/caja 15 unidades",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Lechuga",
+    "variedad": "Escarola",
+    "mercado": "Terminal Hortofrutícola Agro Chillán",
+    "precio_promedio": 22666,
+    "unidad": "$/caja 15 unidades",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Lechuga",
+    "variedad": "Escarola",
+    "mercado": "Terminal La Palmera de La Serena",
+    "precio_promedio": 14562,
+    "unidad": "$/caja 15 unidades",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Lechuga",
+    "variedad": "Escarola",
+    "mercado": "Vega Central Mapocho de Santiago",
+    "precio_promedio": 11833,
+    "unidad": "$/caja 15 unidades",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Lechuga",
+    "variedad": "Escarola",
+    "mercado": "Vega Modelo de Temuco",
+    "precio_promedio": 22022,
+    "unidad": "$/caja 15 unidades",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Lechuga",
+    "variedad": "Escarola",
+    "mercado": "Vega Monumental Concepción",
+    "precio_promedio": 13000,
+    "unidad": "$/caja 15 unidades",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Lechuga",
+    "variedad": "Española",
+    "mercado": "Mercado Mayorista Lo Valledor de Santiago",
+    "precio_promedio": 6422,
+    "unidad": "$/caja 15 unidades",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Lechuga",
+    "variedad": "Española",
+    "mercado": "Vega Modelo de Temuco",
+    "precio_promedio": 14000,
+    "unidad": "$/caja 15 unidades",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Lechuga",
+    "variedad": "Marina",
+    "mercado": "Mercado Mayorista Lo Valledor de Santiago",
+    "precio_promedio": 5816,
+    "unidad": "$/caja 15 unidades",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Lechuga",
+    "variedad": "Marina",
+    "mercado": "Feria Lagunitas de Puerto Montt",
+    "precio_promedio": 17000,
+    "unidad": "$/caja 15 unidades",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Lechuga",
+    "variedad": "Marina",
+    "mercado": "Terminal La Palmera de La Serena",
+    "precio_promedio": 7500,
+    "unidad": "$/caja 15 unidades",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Lechuga",
+    "variedad": "Marina",
+    "mercado": "Vega Central Mapocho de Santiago",
+    "precio_promedio": 6471,
+    "unidad": "$/caja 15 unidades",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Lechuga",
+    "variedad": "Marina",
+    "mercado": "Vega Modelo de Temuco",
+    "precio_promedio": 12333,
+    "unidad": "$/caja 15 unidades",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Limón",
+    "variedad": "Sin especificar",
+    "mercado": "Mercado Mayorista Lo Valledor de Santiago",
+    "precio_promedio": 5669,
+    "unidad": "$/malla 18 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Limón",
+    "variedad": "Sin especificar",
+    "mercado": "Comercializadora del Agro de Limarí",
+    "precio_promedio": 3400,
+    "unidad": "$/malla 18 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Limón",
+    "variedad": "Sin especificar",
+    "mercado": "Macroferia Regional de Talca",
+    "precio_promedio": 6000,
+    "unidad": "$/malla 18 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Limón",
+    "variedad": "Sin especificar",
+    "mercado": "Terminal Hortofrutícola Agro Chillán",
+    "precio_promedio": 7000,
+    "unidad": "$/malla 18 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Limón",
+    "variedad": "Sin especificar",
+    "mercado": "Vega Central Mapocho de Santiago",
+    "precio_promedio": 5806,
+    "unidad": "$/malla 18 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Limón",
+    "variedad": "Sin especificar",
+    "mercado": "Vega Modelo de Temuco",
+    "precio_promedio": 8500,
+    "unidad": "$/malla 18 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Limón",
+    "variedad": "Sin especificar",
+    "mercado": "Vega Monumental Concepción",
+    "precio_promedio": 7000,
+    "unidad": "$/malla 18 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Limón",
+    "variedad": "Sin especificar",
+    "mercado": "Femacal de La Calera",
+    "precio_promedio": 4133,
+    "unidad": "$/malla 16 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Limón",
+    "variedad": "Sin especificar",
+    "mercado": "Terminal La Palmera de La Serena",
+    "precio_promedio": 4488,
+    "unidad": "$/malla 16 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Manzana",
+    "variedad": "Fuji",
+    "mercado": "Mercado Mayorista Lo Valledor de Santiago",
+    "precio_promedio": 299728,
+    "unidad": "$/bin (400 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Manzana",
+    "variedad": "Fuji",
+    "mercado": "Terminal La Palmera de La Serena",
+    "precio_promedio": 345000,
+    "unidad": "$/bin (400 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Manzana",
+    "variedad": "Granny Smith",
+    "mercado": "Mercado Mayorista Lo Valledor de Santiago",
+    "precio_promedio": 275257,
+    "unidad": "$/bin (400 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Manzana",
+    "variedad": "Granny Smith",
+    "mercado": "Terminal La Palmera de La Serena",
+    "precio_promedio": 325000,
+    "unidad": "$/bin (400 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Manzana",
+    "variedad": "Pink Lady",
+    "mercado": "Mercado Mayorista Lo Valledor de Santiago",
+    "precio_promedio": 250000,
+    "unidad": "$/bin (400 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Manzana",
+    "variedad": "Pink Lady",
+    "mercado": "Terminal La Palmera de La Serena",
+    "precio_promedio": 305000,
+    "unidad": "$/bin (400 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Manzana",
+    "variedad": "Scarlett",
+    "mercado": "Mercado Mayorista Lo Valledor de Santiago",
+    "precio_promedio": 250000,
+    "unidad": "$/bin (400 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Manzana",
+    "variedad": "Granny Smith",
+    "mercado": "Femacal de La Calera",
+    "precio_promedio": 14000,
+    "unidad": "$/bandeja 15 kilos granel",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Manzana",
+    "variedad": "Granny Smith",
+    "mercado": "Macroferia Regional de Talca",
+    "precio_promedio": 12500,
+    "unidad": "$/bandeja 15 kilos granel",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Manzana",
+    "variedad": "Granny Smith",
+    "mercado": "Terminal Hortofrutícola Agro Chillán",
+    "precio_promedio": 12000,
+    "unidad": "$/bandeja 15 kilos granel",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Manzana",
+    "variedad": "Granny Smith",
+    "mercado": "Vega Modelo de Temuco",
+    "precio_promedio": 15000,
+    "unidad": "$/bandeja 15 kilos granel",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Manzana",
+    "variedad": "Granny Smith",
+    "mercado": "Vega Monumental Concepción",
+    "precio_promedio": 12000,
+    "unidad": "$/bandeja 15 kilos granel",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Manzana",
+    "variedad": "Pink Lady",
+    "mercado": "Femacal de La Calera",
+    "precio_promedio": 14000,
+    "unidad": "$/bandeja 15 kilos granel",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Manzana",
+    "variedad": "Pink Lady",
+    "mercado": "Terminal Hortofrutícola Agro Chillán",
+    "precio_promedio": 12000,
+    "unidad": "$/bandeja 15 kilos granel",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Manzana",
+    "variedad": "Pink Lady",
+    "mercado": "Vega Modelo de Temuco",
+    "precio_promedio": 13800,
+    "unidad": "$/bandeja 15 kilos granel",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Naranja",
+    "variedad": "Lane Late",
+    "mercado": "Comercializadora del Agro de Limarí",
+    "precio_promedio": 95000,
+    "unidad": "$/bin (400 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Naranja",
+    "variedad": "Lane Late",
+    "mercado": "Terminal La Palmera de La Serena",
+    "precio_promedio": 105000,
+    "unidad": "$/bin (400 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Naranja",
+    "variedad": "Navel Late",
+    "mercado": "Mercado Mayorista Lo Valledor de Santiago",
+    "precio_promedio": 128634,
+    "unidad": "$/bin (400 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Naranja",
+    "variedad": "Navel Late",
+    "mercado": "Comercializadora del Agro de Limarí",
+    "precio_promedio": 95000,
+    "unidad": "$/bin (400 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Naranja",
+    "variedad": "Navel Late",
+    "mercado": "Terminal La Palmera de La Serena",
+    "precio_promedio": 105000,
+    "unidad": "$/bin (400 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Naranja",
+    "variedad": "Navel Late",
+    "mercado": "Vega Modelo de Temuco",
+    "precio_promedio": 180000,
+    "unidad": "$/bin (400 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Naranja",
+    "variedad": "New Hall",
+    "mercado": "Mercado Mayorista Lo Valledor de Santiago",
+    "precio_promedio": 120000,
+    "unidad": "$/bin (400 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Naranja",
+    "variedad": "Lane Late",
+    "mercado": "Macroferia Regional de Talca",
+    "precio_promedio": 6666,
+    "unidad": "$/bandeja 15 kilos granel",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Naranja",
+    "variedad": "Lane Late",
+    "mercado": "Terminal Hortofrutícola Agro Chillán",
+    "precio_promedio": 7500,
+    "unidad": "$/bandeja 15 kilos granel",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Naranja",
+    "variedad": "Lane Late",
+    "mercado": "Vega Central Mapocho de Santiago",
+    "precio_promedio": 6000,
+    "unidad": "$/bandeja 15 kilos granel",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Naranja",
+    "variedad": "Navel Late",
+    "mercado": "Macroferia Regional de Talca",
+    "precio_promedio": 6400,
+    "unidad": "$/bandeja 15 kilos granel",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Naranja",
+    "variedad": "Navel Late",
+    "mercado": "Terminal Hortofrutícola Agro Chillán",
+    "precio_promedio": 7625,
+    "unidad": "$/bandeja 15 kilos granel",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Naranja",
+    "variedad": "Navel Late",
+    "mercado": "Vega Modelo de Temuco",
+    "precio_promedio": 10000,
+    "unidad": "$/bandeja 15 kilos granel",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Naranja",
+    "variedad": "Navel Late",
+    "mercado": "Vega Monumental Concepción",
+    "precio_promedio": 8000,
+    "unidad": "$/bandeja 15 kilos granel",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Naranja",
+    "variedad": "New Hall",
+    "mercado": "Macroferia Regional de Talca",
+    "precio_promedio": 6000,
+    "unidad": "$/bandeja 15 kilos granel",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Naranja",
+    "variedad": "New Hall",
+    "mercado": "Vega Monumental Concepción",
+    "precio_promedio": 8000,
+    "unidad": "$/bandeja 15 kilos granel",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Palta",
+    "variedad": "Fuerte",
+    "mercado": "Femacal de La Calera",
+    "precio_promedio": 2000,
+    "unidad": "$/kilo (en caja de 15 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Palta",
+    "variedad": "Edranol",
+    "mercado": "Mercado Mayorista Lo Valledor de Santiago",
+    "precio_promedio": 2238,
+    "unidad": "$/kilo (en caja de 17 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Palta",
+    "variedad": "Edranol",
+    "mercado": "Comercializadora del Agro de Limarí",
+    "precio_promedio": 1950,
+    "unidad": "$/kilo (en caja de 17 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Palta",
+    "variedad": "Edranol",
+    "mercado": "Macroferia Regional de Talca",
+    "precio_promedio": 2000,
+    "unidad": "$/kilo (en caja de 17 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Palta",
+    "variedad": "Edranol",
+    "mercado": "Terminal La Palmera de La Serena",
+    "precio_promedio": 2083,
+    "unidad": "$/kilo (en caja de 17 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Palta",
+    "variedad": "Edranol",
+    "mercado": "Vega Central Mapocho de Santiago",
+    "precio_promedio": 2020,
+    "unidad": "$/kilo (en caja de 17 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Palta",
+    "variedad": "Edranol",
+    "mercado": "Vega Monumental Concepción",
+    "precio_promedio": 2400,
+    "unidad": "$/kilo (en caja de 17 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Palta",
+    "variedad": "Fuerte",
+    "mercado": "Comercializadora del Agro de Limarí",
+    "precio_promedio": 1950,
+    "unidad": "$/kilo (en caja de 17 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Palta",
+    "variedad": "Fuerte",
+    "mercado": "Macroferia Regional de Talca",
+    "precio_promedio": 2000,
+    "unidad": "$/kilo (en caja de 17 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Palta",
+    "variedad": "Negra de la Cruz",
+    "mercado": "Mercado Mayorista Lo Valledor de Santiago",
+    "precio_promedio": 1466,
+    "unidad": "$/kilo (en caja de 17 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Palta",
+    "variedad": "Negra de la Cruz",
+    "mercado": "Vega Central Mapocho de Santiago",
+    "precio_promedio": 1600,
+    "unidad": "$/kilo (en caja de 17 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Palta",
+    "variedad": "Negra de la Cruz",
+    "mercado": "Vega Monumental Concepción",
+    "precio_promedio": 1800,
+    "unidad": "$/kilo (en caja de 17 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Papa",
+    "variedad": "Asterix",
+    "mercado": "Mercado Mayorista Lo Valledor de Santiago",
+    "precio_promedio": 23603,
+    "unidad": "$/saco 25 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Papa",
+    "variedad": "Asterix",
+    "mercado": "Femacal de La Calera",
+    "precio_promedio": 19707,
+    "unidad": "$/saco 25 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Papa",
+    "variedad": "Asterix",
+    "mercado": "Macroferia Regional de Talca",
+    "precio_promedio": 18000,
+    "unidad": "$/saco 25 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Papa",
+    "variedad": "Asterix",
+    "mercado": "Terminal Hortofrutícola Agro Chillán",
+    "precio_promedio": 19500,
+    "unidad": "$/saco 25 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Papa",
+    "variedad": "Asterix",
+    "mercado": "Vega Central Mapocho de Santiago",
+    "precio_promedio": 24250,
+    "unidad": "$/saco 25 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Papa",
+    "variedad": "Asterix",
+    "mercado": "Vega Monumental Concepción",
+    "precio_promedio": 18000,
+    "unidad": "$/saco 25 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Papa",
+    "variedad": "Patagonia",
+    "mercado": "Mercado Mayorista Lo Valledor de Santiago",
+    "precio_promedio": 22221,
+    "unidad": "$/saco 25 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Papa",
+    "variedad": "Patagonia",
+    "mercado": "Macroferia Regional de Talca",
+    "precio_promedio": 17500,
+    "unidad": "$/saco 25 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Papa",
+    "variedad": "Patagonia",
+    "mercado": "Terminal Hortofrutícola Agro Chillán",
+    "precio_promedio": 19700,
+    "unidad": "$/saco 25 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Papa",
+    "variedad": "Patagonia",
+    "mercado": "Terminal La Palmera de La Serena",
+    "precio_promedio": 23500,
+    "unidad": "$/saco 25 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Papa",
+    "variedad": "Patagonia",
+    "mercado": "Vega Central Mapocho de Santiago",
+    "precio_promedio": 22750,
+    "unidad": "$/saco 25 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Papa",
+    "variedad": "Patagonia",
+    "mercado": "Vega Modelo de Temuco",
+    "precio_promedio": 16000,
+    "unidad": "$/saco 25 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Papa",
+    "variedad": "Patagonia",
+    "mercado": "Vega Monumental Concepción",
+    "precio_promedio": 20000,
+    "unidad": "$/saco 25 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Papa",
+    "variedad": "Rodeo",
+    "mercado": "Macroferia Regional de Talca",
+    "precio_promedio": 17000,
+    "unidad": "$/saco 25 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Papa",
+    "variedad": "Rosara",
+    "mercado": "Agrícola del Norte S.A. de Arica",
+    "precio_promedio": 16500,
+    "unidad": "$/saco 25 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Papa",
+    "variedad": "Rosara",
+    "mercado": "Mercado Mayorista Lo Valledor de Santiago",
+    "precio_promedio": 19976,
+    "unidad": "$/saco 25 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Papa",
+    "variedad": "Rosara",
+    "mercado": "Femacal de La Calera",
+    "precio_promedio": 19637,
+    "unidad": "$/saco 25 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Papa",
+    "variedad": "Rosara",
+    "mercado": "Macroferia Regional de Talca",
+    "precio_promedio": 17000,
+    "unidad": "$/saco 25 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Papa",
+    "variedad": "Rosara",
+    "mercado": "Terminal Hortofrutícola Agro Chillán",
+    "precio_promedio": 19000,
+    "unidad": "$/saco 25 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Papa",
+    "variedad": "Rosara",
+    "mercado": "Terminal La Palmera de La Serena",
+    "precio_promedio": 22500,
+    "unidad": "$/saco 25 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Papa",
+    "variedad": "Rosara",
+    "mercado": "Vega Central Mapocho de Santiago",
+    "precio_promedio": 20500,
+    "unidad": "$/saco 25 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Papa",
+    "variedad": "Patagonia",
+    "mercado": "Vega Modelo de Temuco",
+    "precio_promedio": 20454,
+    "unidad": "$/malla 25 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Pera",
+    "variedad": "Packham's Triumph",
+    "mercado": "Mercado Mayorista Lo Valledor de Santiago",
+    "precio_promedio": 280000,
+    "unidad": "$/bin (450 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Pera",
+    "variedad": "Packham's Triumph",
+    "mercado": "Terminal La Palmera de La Serena",
+    "precio_promedio": 325000,
+    "unidad": "$/bin (450 kilos)",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Pera",
+    "variedad": "Abate Fetel",
+    "mercado": "Macroferia Regional de Talca",
+    "precio_promedio": 13000,
+    "unidad": "$/bandeja 18 kilos granel",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Pera",
+    "variedad": "Forelle",
+    "mercado": "Vega Modelo de Temuco",
+    "precio_promedio": 17000,
+    "unidad": "$/bandeja 18 kilos granel",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Pera",
+    "variedad": "Packham's Triumph",
+    "mercado": "Macroferia Regional de Talca",
+    "precio_promedio": 13250,
+    "unidad": "$/bandeja 18 kilos granel",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Pera",
+    "variedad": "Packham's Triumph",
+    "mercado": "Terminal Hortofrutícola Agro Chillán",
+    "precio_promedio": 12066,
+    "unidad": "$/bandeja 18 kilos granel",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Pera",
+    "variedad": "Packham's Triumph",
+    "mercado": "Vega Central Mapocho de Santiago",
+    "precio_promedio": 16000,
+    "unidad": "$/bandeja 18 kilos granel",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Pera",
+    "variedad": "Packham's Triumph",
+    "mercado": "Vega Modelo de Temuco",
+    "precio_promedio": 19025,
+    "unidad": "$/bandeja 18 kilos granel",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Pera",
+    "variedad": "Packham's Triumph",
+    "mercado": "Vega Monumental Concepción",
+    "precio_promedio": 13000,
+    "unidad": "$/bandeja 18 kilos granel",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Tomate",
+    "variedad": "Larga vida",
+    "mercado": "Agrícola del Norte S.A. de Arica",
+    "precio_promedio": 9916,
+    "unidad": "$/bandeja 18 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Tomate",
+    "variedad": "Larga vida",
+    "mercado": "Mercado Mayorista Lo Valledor de Santiago",
+    "precio_promedio": 19479,
+    "unidad": "$/bandeja 18 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Tomate",
+    "variedad": "Larga vida",
+    "mercado": "Comercializadora del Agro de Limarí",
+    "precio_promedio": 15500,
+    "unidad": "$/bandeja 18 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Tomate",
+    "variedad": "Larga vida",
+    "mercado": "Femacal de La Calera",
+    "precio_promedio": 17694,
+    "unidad": "$/bandeja 18 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Tomate",
+    "variedad": "Larga vida",
+    "mercado": "Feria Lagunitas de Puerto Montt",
+    "precio_promedio": 27392,
+    "unidad": "$/bandeja 18 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Tomate",
+    "variedad": "Larga vida",
+    "mercado": "Macroferia Regional de Talca",
+    "precio_promedio": 19000,
+    "unidad": "$/bandeja 18 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Tomate",
+    "variedad": "Larga vida",
+    "mercado": "Mapocho Venta Directa de Santiago",
+    "precio_promedio": 21494,
+    "unidad": "$/bandeja 18 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Tomate",
+    "variedad": "Larga vida",
+    "mercado": "Terminal Hortofrutícola Agro Chillán",
+    "precio_promedio": 19866,
+    "unidad": "$/bandeja 18 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Tomate",
+    "variedad": "Larga vida",
+    "mercado": "Terminal La Palmera de La Serena",
+    "precio_promedio": 14750,
+    "unidad": "$/bandeja 18 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Tomate",
+    "variedad": "Larga vida",
+    "mercado": "Vega Central Mapocho de Santiago",
+    "precio_promedio": 19875,
+    "unidad": "$/bandeja 18 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Tomate",
+    "variedad": "Larga vida",
+    "mercado": "Vega Modelo de Temuco",
+    "precio_promedio": 17717,
+    "unidad": "$/bandeja 18 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Tomate",
+    "variedad": "Larga vida",
+    "mercado": "Vega Monumental Concepción",
+    "precio_promedio": 19375,
+    "unidad": "$/bandeja 18 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Zanahoria",
+    "variedad": "Sin especificar",
+    "mercado": "Mercado Mayorista Lo Valledor de Santiago",
+    "precio_promedio": 20051,
+    "unidad": "$/saco 20 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Zanahoria",
+    "variedad": "Sin especificar",
+    "mercado": "Femacal de La Calera",
+    "precio_promedio": 16565,
+    "unidad": "$/saco 20 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Zanahoria",
+    "variedad": "Sin especificar",
+    "mercado": "Feria Lagunitas de Puerto Montt",
+    "precio_promedio": 26285,
+    "unidad": "$/saco 20 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Zanahoria",
+    "variedad": "Sin especificar",
+    "mercado": "Macroferia Regional de Talca",
+    "precio_promedio": 19750,
+    "unidad": "$/saco 20 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Zanahoria",
+    "variedad": "Sin especificar",
+    "mercado": "Terminal Hortofrutícola Agro Chillán",
+    "precio_promedio": 20060,
+    "unidad": "$/saco 20 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Zanahoria",
+    "variedad": "Sin especificar",
+    "mercado": "Terminal La Palmera de La Serena",
+    "precio_promedio": 20900,
+    "unidad": "$/saco 20 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Zanahoria",
+    "variedad": "Sin especificar",
+    "mercado": "Vega Central Mapocho de Santiago",
+    "precio_promedio": 20613,
+    "unidad": "$/saco 20 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Zanahoria",
+    "variedad": "Sin especificar",
+    "mercado": "Vega Modelo de Temuco",
+    "precio_promedio": 21000,
+    "unidad": "$/saco 20 kilos",
+    "fecha_boletin": "2026-09-25"
+  },
+  {
+    "producto": "Zanahoria",
+    "variedad": "Sin especificar",
+    "mercado": "Vega Monumental Concepción",
+    "precio_promedio": 20750,
+    "unidad": "$/saco 20 kilos",
+    "fecha_boletin": "2026-09-25"
+  }
+]
